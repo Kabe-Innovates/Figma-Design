@@ -51,6 +51,7 @@ The source code is organized into the following directories:
 [Click here to view the prototype](https://www.figma.com/proto/csoUV3H3pDTh1vPNc5jI9S/Saveetha-Events?node-id=1-89&p=f&t=Jm7tEVd2QsUFqlWh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 
-![alt text](Output.gif)
+<img src="Output.gif" alt="alt text" width="50%" />
+
 ## RESULT
 The event registration web application was successfully designed, developed, and deployed using Figma and standard web technologies.
