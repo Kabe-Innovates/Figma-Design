@@ -52,5 +52,6 @@ The source code is organized into the following directories:
 
 
 <img src="Output.gif" alt="alt text" width="50%" />
+
 ## RESULT
 The event registration web application was successfully designed, developed, and deployed using Figma and standard web technologies.
