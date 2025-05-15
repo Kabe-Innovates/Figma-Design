@@ -1,0 +1,133 @@
+.android-compact {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.android-compact .div {
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  width: 412px;
+  height: 917px;
+  position: relative;
+}
+
+.android-compact .image {
+  position: absolute;
+  width: 257px;
+  height: 257px;
+  top: 78px;
+  left: 78px;
+  object-fit: cover;
+}
+
+.android-compact .text-wrapper {
+  position: absolute;
+  top: 392px;
+  left: 91px;
+  font-family: "Nico Moji-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.android-compact .EMAIL-ID-PASSWORD {
+  position: absolute;
+  top: 501px;
+  left: 33px;
+  font-family: "NATS-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.android-compact .rectangle {
+  position: absolute;
+  width: 204px;
+  height: 27px;
+  top: 520px;
+  left: 172px;
+  background-color: #ffffff;
+  border-radius: 19px;
+}
+
+.android-compact .rectangle-2 {
+  position: absolute;
+  width: 204px;
+  height: 27px;
+  top: 571px;
+  left: 172px;
+  background-color: #ffffff;
+  border-radius: 19px;
+}
+
+.android-compact .FACING-TROUBLE {
+  position: absolute;
+  top: 768px;
+  left: 120px;
+  font-family: "NATS-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.android-compact .span {
+  color: #000000;
+}
+
+.android-compact .text-wrapper-2 {
+  color: #e3070a;
+}
+
+.android-compact .overlap-group {
+  position: absolute;
+  width: 178px;
+  height: 62px;
+  top: 634px;
+  left: 114px;
+}
+
+.android-compact .rectangle-3 {
+  position: absolute;
+  width: 175px;
+  height: 55px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.android-compact .rectangle-4 {
+  position: absolute;
+  width: 158px;
+  height: 47px;
+  top: 12px;
+  left: 20px;
+  background-color: #f44013;
+  border-radius: 19px;
+}
+
+.android-compact .text-wrapper-3 {
+  position: absolute;
+  top: 11px;
+  left: 65px;
+  font-family: "NATS-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
